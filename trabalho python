@@ -1,0 +1,49 @@
+Estrutura de Repetição
+Exemplo: Usando um for para iterar sobre uma lista
+# Exemplo de estrutura de repetição: loop 'for'
+
+# Lista de frutas
+frutas = ['maçã', 'banana', 'laranja', 'uva']
+
+# Iterando sobre cada fruta na lista
+for fruta in frutas:
+    print(f'Eu gosto de {fruta}.')
+
+Exemplo: Usando um while para repetir enquanto uma condição é verdadeira
+# Exemplo de estrutura de repetição: loop 'while'
+
+# Contador inicial
+contador = 0
+
+# Loop 'while' para contar até 5
+while contador < 5:
+    print(f'Contador é {contador}.')
+    contador += 1  # Incrementa o contador
+
+Estrutura de Tomada de Decisão
+Exemplo: Usando if, elif, e else para tomar decisões
+# Exemplo de estrutura de tomada de decisão
+
+# Solicita a entrada do usuário
+numero = int(input('Digite um número: '))
+
+# Tomando decisões com base no valor do número
+if numero > 0:
+    print('O número é positivo.')
+elif numero < 0:
+    print('O número é negativo.')
+else:
+    print('O número é zero.')
+
+Exemplo: Usando if e else para uma decisão simples
+# Exemplo de estrutura de tomada de decisão: decisão simples
+
+# Solicita a entrada do usuário
+idade = int(input('Digite sua idade: '))
+
+# Verifica se a pessoa é maior de idade
+if idade >= 18:
+    print('Você é maior de idade.')
+else:
+    print('Você é menor de idade.')
+
