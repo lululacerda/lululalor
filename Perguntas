@@ -1,0 +1,61 @@
+### 1) No contexto da ubiquidade da computação, explique brevemente porque é vantajoso dominar seus conceitos fundamentais ao lidar com o Direito.
+Dominar os conceitos fundamentais da computação permite que profissionais do Direito compreendam melhor as implicações tecnológicas envolvidas em questões legais, como a proteção de dados, contratos digitais, cibercrimes e direitos autorais, que são temas cada vez mais frequentes. A compreensão técnica facilita a tomada de decisões jurídicas bem-informadas e a criação de regulamentações mais adequadas.
+
+### 2) Termos na área da computação:
+a) **Algoritmo**: É um conjunto de instruções bem definidas e ordenadas para resolver um problema ou realizar uma tarefa.
+b) **Nuvem**: Refere-se à oferta de serviços de computação (armazenamento, processamento, software) por meio da internet, sem a necessidade de infraestrutura local.
+c) **Servidor**: Um computador ou programa que fornece serviços a outros computadores ou usuários em uma rede.
+d) **Neutralidade da rede**: Princípio que garante que todos os dados que trafegam na internet sejam tratados igualmente, sem discriminação ou bloqueios.
+e) **Arquivo**: Um conjunto de dados armazenados em um formato específico dentro de um sistema de computador, podendo conter texto, imagens, vídeos, etc.
+
+### 3) Como conseguimos organizar na palavra Internet conceitos como máquinas, cabos, programas e dados?
+A Internet é uma rede global que interconecta várias redes e sistemas, permitindo a comunicação entre dispositivos (máquinas) através de protocolos padronizados. Cabos e infraestrutura física possibilitam a transmissão de dados, enquanto programas de software fazem a interface entre os usuários e os serviços que eles acessam, como sites, e-mails e aplicativos.
+
+### 4) Por que os computadores foram inventados, mesmo repetindo o que humanos já sabem fazer?
+Computadores foram inventados para realizar tarefas repetitivas com alta velocidade e precisão, além de processar grandes volumes de dados, algo que seria demorado e propenso a erros humanos. Eles automatizam processos, tornando atividades mais eficientes e permitindo avanços em várias áreas, como ciência e negócios.
+
+### 5) Por que uma rede neural artificial não pode tomar decisões médicas ou de concessão de empréstimos?
+Redes neurais artificiais podem ser suscetíveis a erros, preconceitos e falta de transparência na tomada de decisões. No entanto, modelos como árvores de decisão ou algoritmos baseados em lógica podem ser utilizados para auxiliar nessas áreas, desde que supervisionados e ajustados para eliminar vieses e garantir precisão.
+
+### 6) O que diferencia um arquivo “binário” de um arquivo “de texto”?
+Arquivos de texto contêm apenas caracteres legíveis por humanos, como letras e números, enquanto arquivos binários armazenam dados em formato bruto (1s e 0s), que podem incluir imagens, vídeos ou outros tipos de dados que não são diretamente interpretáveis sem um software específico.
+
+### 7) O que diferencia um formato proprietário de arquivos de um formato aberto de arquivos?
+Um formato proprietário é controlado por uma empresa ou entidade e pode exigir pagamento ou licenciamento para uso. Já um formato aberto está disponível para o público, permitindo seu uso e modificação livremente. No contexto da divulgação de dados públicos, formatos abertos são preferíveis para garantir transparência e acessibilidade.
+
+### 8) Diferença entre um protocolo de comunicação aberto e um proprietário:
+Um protocolo aberto está disponível para uso público, permitindo que qualquer desenvolvedor crie soluções compatíveis, fomentando inovação e liberdade econômica. Já um protocolo proprietário é controlado por uma empresa, podendo limitar o desenvolvimento de novas aplicações. Protocolos abertos favorecem a criação de serviços inovadores e uma internet mais inclusiva.
+
+### 9) Sobre o “sistema operacional”:
+a) **Sistema operacional**: Um software que gerencia o hardware do computador e oferece uma plataforma para rodar outros programas. Ele faz a ponte entre os componentes físicos (como CPU, memória) e os aplicativos.
+b) **Existem outros sistemas operacionais?** Sim, existem diversos sistemas operacionais como Windows, macOS, Linux, Android, iOS, etc.
+c) **Vender computadores com um sistema operacional ativado é venda casada?** Pode ser considerado venda casada se o consumidor não tiver a opção de escolher outro sistema ou comprar o computador sem o sistema operacional, infringindo a liberdade de escolha do consumidor.
+
+### 10) Sobre a LGPD:
+a) **Abrangência da LGPD em datacenters estrangeiros**: A LGPD se aplica a qualquer empresa que trate dados pessoais de indivíduos no Brasil, mesmo que os servidores estejam localizados fora do país.
+b) **Servidores de aplicação e regras de comunidade**:
+1) Quanto ao conteúdo em desacordo com as regras de comunidade, muitos servidores seguem suas diretrizes e removem conteúdos que violam essas regras. Contudo, há debates sobre transparência e consistência na aplicação dessas regras.
+2) Quanto a conteúdo falso que destrói reputações, muitos servidores têm dificuldades em lidar com a disseminação de desinformação. Embora políticas de remoção existam, a identificação e exclusão de conteúdo falso são desafiadoras.
+
+### 11) Sobre a linguagem de programação Python:
+a) **Estruturas de repetição**: `for` e `while`.
+b) **Definição de blocos de comando**: São definidos pela indentação, ou seja, o espaçamento de linhas dentro do código.
+c) **Principais operações do operador +**:
+1) Adição de números (ex: `3 + 2 = 5`).
+2) Concatenação de strings (ex: `'Hello' + ' World' = 'Hello World'`).
+d) **Função**: Um bloco de código que executa uma tarefa específica e pode ser reutilizado.
+e) **Definição de função**: Usando a palavra-chave `def`, por exemplo:
+   ```python
+   def minha_funcao():
+       print("Hello")
+   ```
+f) **Estruturas de tomada de decisão**: `if`, `elif` e `else`.
+   Exemplo:
+   ```python
+   if x > 0:
+       print("Positivo")
+   elif x == 0:
+       print("Zero")
+   else:
+       print("Negativo")
+   ```
